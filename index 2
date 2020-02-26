@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Jayran's Personal Site</title>
+  </head>
+  <body>
+
+<table cellspacing="20">
+<tr>
+
+
+<td>  <img src="Images/jayran" alt=""width="180px" height="200px"> </td>
+<td> <h1>Jayran Pimentel</h1>
+
+
+ <p>Hi! Im <a href="https://www.facebook.com/jayran.pimentel.7">Jayran Pimentel</a> I like To sleep And I love playing <a href="http://www.dota2.com/play/">DOTA</a> <em>gwapo kaayo ko!</em></p>
+<p>im no1 in <strong> LOCAL RANKED AT <a href="https://9gag.com/">MLBB</a> </strong></p>
+<hr> </td>
+
+</tr>
+</table>
+
+
+<h3>Educational Background</h3>
+
+<table cellspacing ="5">
+  <tr>
+    <td>LEVEL</th>
+    <td>SChool</td>
+
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>JHCSC</td>
+
+  </tr>
+  <tr>
+    <td>High School</td>
+    <td>TNHS</td>
+
+  </tr>
+  <tr>
+    <td>Elementary</td>
+    <td>New Vilaage elementary School</td>
+
+  </tr>
+
+  </tr>
+</table>
+<hr>
+<h3><a href="C:\Users\PC08\Documents\Web Development\html personal sites\hobbies.html">Hobbies</a></h3>
+
+<hr>
+<h3><a href="C:\Users\PC08\Documents\Web Development\html personal sites\contactme.html">contact me</a>
+<hr>
+
+<h3>Skills</h3>
+<table>
+  <tr>
+    <td>EATING</td>
+    <td>⭐⭐⭐⭐⭐ </td>
+</tr>
+<tr>
+  <td>SPORTS</td>
+  <td>⭐⭐⭐⭐⭐ </td>
+</tr>
+</table>
+  </body>
+</html>
